@@ -1,0 +1,7 @@
+*.x86
+*.gfx
+*.debug
+.vitamin.sln
+.vitamin.VC.opendb
+*.vs
+*.vitamin/debug
